@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\",
+  "WorkspaceRootPath": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|c:\\users\\duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\mycv\\mycvwebsite\\pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|solutionrelative:pages\\skills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|c:\\users\\duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\mycv\\mycvwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Shared\\_SideNav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\Shared\\_SideNav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|c:\\users\\duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\mycv\\mycvwebsite\\pages\\shared\\_sidenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98EDA68-0FC5-45B7-AD84-130A7D6D852D}|MyCvWebsite.csproj|solutionrelative:pages\\shared\\_sidenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAGIAAAAAAAAAAAAAAHkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_SideNav.cshtml",
-              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Shared\\_SideNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\Pages\\Shared\\_SideNav.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_SideNav.cshtml",
-              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Shared\\_SideNav.cshtml",
+              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\Pages\\Shared\\_SideNav.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_SideNav.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -64,11 +64,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Skills.cshtml",
-              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Skills.cshtml",
+              "DocumentMoniker": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\Pages\\Skills.cshtml",
               "RelativeDocumentMoniker": "Pages\\Skills.cshtml",
-              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\MyCV\\MyCvWebsite\\Pages\\Skills.cshtml",
+              "ToolTip": "C:\\Users\\Duncan\\source\\repos\\mthoko07\\.vs\\mthoko07\\MyCV\\MyCvWebsite\\Pages\\Skills.cshtml",
               "RelativeToolTip": "Pages\\Skills.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-26T10:08:01.334Z",
               "EditorCaption": ""
